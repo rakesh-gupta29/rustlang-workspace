@@ -1,3 +1,3 @@
-# Rustlang Central Repo
+# hello_world Project
 
-Central repo for learning riustlang.It contains basics and newbie projects to practice rust.
+I am a rust developer now :)
